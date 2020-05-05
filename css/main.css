@@ -1,0 +1,14 @@
+/* blog */
+.newsGrid img {
+  width: calc(100% - 20px);
+  height: 150px;
+  margin: 10px;
+}
+.newsGrid {
+  margin: 10;
+  border: 1 solid red;
+  padding: 10px;
+}
+.container-fluid {
+  width: 90px;
+}
